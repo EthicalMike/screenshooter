@@ -17,4 +17,4 @@ python shooter.py
 
 Use is at your own risk.
 
-I wrote this script for visual reconnaissance. Since I run ubuntu on a windows subsystem for linux (wsl) I needed simple solution circumventing some boundaries concerning headless chrome in wsl. So the easiest way for me was using selenium combined with python.
+I wrote this script for visual reconnaissance. Since I run ubuntu on a windows subsystem for linux (wsl) I needed a simple solution circumventing some boundaries concerning headless chrome in wsl. So the easiest way for me was using selenium combined with python.
