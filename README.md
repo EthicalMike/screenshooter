@@ -10,7 +10,8 @@ input.txt is the file where you place the complete urls (includig protocol, e.g.
 usage:
 needs Python3 to be installed
 
-run python shooter.py
+simply run:
+python shooter.py
 
 Use is at your own risk.
 
