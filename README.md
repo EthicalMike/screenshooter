@@ -5,6 +5,8 @@ screenshooter is a simple Python script that lets you make screenshots given a l
 
 This script makes use of the selenium web driver. <b>In order to run it, you must download an appropriate chromedriver for your system and version of Chrome and copy it into the directory of this script!</b>
 
+![Alt text](structure.JPG?raw=true)
+
 input.txt is the file where you place the complete urls (includig protocol, e.g. https://... or http://...).
 
 usage:
